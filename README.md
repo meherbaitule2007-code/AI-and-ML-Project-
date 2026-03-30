@@ -113,14 +113,9 @@ ai-sentiment-analyzer/
 ├── requirements.txt
 └── README.md
 
-🖼️ Screenshots
-
-<img width="583" height="190" alt="17748720623622448888178424673819" src="https://github.com/user-attachments/assets/fbdfb727-e9ee-4d6a-8d4f-1b96dd6eecbb" />
+🖼️ Output Screenshots
 
 
-<img width="583" height="190" alt="17748720840211358136578011962524" src="https://github.com/user-attachments/assets/598d42c9-7ebf-4a56-a84b-89c54efe774a" />
-
-
-<img width="583" height="190" alt="1774872103234171490500440613108" src="https://github.com/user-attachments/assets/4be7dfb0-7531-4a69-82a3-0438ae838113" />
+<img width="449" height="433" alt="Output" src="https://github.com/user-attachments/assets/7b416fba-b090-4fd5-bea3-8e55db10af66" />
 
 
